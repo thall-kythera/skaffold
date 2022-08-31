@@ -124,7 +124,7 @@ This API can be used to
 The resulting `skaffold.yaml` will look something like this:
 
 ```yaml
-apiVersion: skaffold/v2beta5
+apiVersion: skaffold/v2beta29
 ...
 deploy:
   kustomize:
